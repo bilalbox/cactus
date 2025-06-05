@@ -173,6 +173,7 @@ We welcome contributions! Here's how you can help:
 | Google Pixel 8                |            16            |             -               |             -              |
 | Realme GT2                    |            16            |             -               |             -              |
 | Google Pixel 6a               |            14            |             -               |             -              |
+| Google Pixel 6               |            11            |             -               |             39              |
 
 ## ![Demo](https://img.shields.io/badge/Demo-grey.svg?style=for-the-badge)
 
